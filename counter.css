@@ -1,0 +1,32 @@
+*{
+    background-color: azure;
+}
+#c1{
+    font-size: 100px;
+}
+#x{
+    width: 500px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#r{
+    font-size: xx-large;
+    background-color: beige;
+}
+#d{
+    font-size: xx-large;
+    background-color: beige;
+}
+#i{
+    font-size: xx-large;
+    background-color: beige;
+}
+#r:hover{
+    color: rgb(84, 193, 193);
+}
+#d:hover{
+    color: rgb(84, 193, 193);
+}
+#i:hover{
+    color: rgb(84, 193, 193);
+}
